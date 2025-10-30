@@ -1,0 +1,9 @@
+requests
+pandas
+openpyxl
+crewai
+fastapi
+flask
+openai
+langchain-openai
+python-dotenv
